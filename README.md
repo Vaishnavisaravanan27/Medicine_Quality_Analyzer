@@ -1,10 +1,10 @@
 # 💊 Medicine Quality Analyzer and Expiry Date Tracker  
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)  
-[![PHP](https://img.shields.io/badge/PHP-8.0-purple?logo=php)](https://www.php.net/)  
-[![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey?logo=flask)](https://flask.palletsprojects.com/)  
-[![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?logo=opencv)](https://opencv.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](#)  
+- Python 
+- PHP  
+- Flask 
+- OpenCV
+ 
 
 
 ---
@@ -83,9 +83,9 @@ This project ensures **safe medicine usage**, **efficient inventory management**
 
 ---
 ## Contribution By
-Tushaara A
-Rashika T
-Kavya H
+- Tushaara A
+- Rashika T
+- Kavya H
 
 ## 👨‍💻 Team FutureFuze  
 *Smart India Hackathon 2024*  
