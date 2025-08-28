@@ -82,6 +82,8 @@ This project ensures **safe medicine usage**, **efficient inventory management**
 
 ---
 ## Contribution By
+-Vaishnavi.S
+-Amirtha.S.J
 - Tushaara A
 - Rashika T
 - Kavya H
